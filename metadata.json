@@ -1,0 +1,7 @@
+{
+  "name": "Transcriptor Pro AI",
+  "description": "Una aplicación minimalista y profesional para transcripción de audio en tiempo real utilizando Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
